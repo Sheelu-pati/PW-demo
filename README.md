@@ -1,2 +1,2 @@
 # PW-demo
-This is the demo class of Git &amp; Github
+This is the demo class of Git &amp; Github.
